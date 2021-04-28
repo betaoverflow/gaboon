@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='gaboon-logo.png' width='200'>
+<img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-logo.png' width='200'>
 </p>
 <h1 align='center'>Gaboon </h1>
 <p align='center'>
@@ -8,7 +8,7 @@
 </p>
 <p align='center'>Code minimum and efficient using Gaboon's implementation of common algorithms! A handy tool for all programmers to make your life easier. We also aim to add documentation for every algorithm to make it more beginner friendly and ultimately making it a master tool for learning algorithms in python. For intermediate and professional developers it becomes boring to write basic algos in development so we also aim to reduce their effort with the help of gaboon. A PYPI package which will make the development process more efficient. The module is opensource so developers can also create a more personalized module using gaboon. </p>
 
-<img src='gaboon-terminal.png' align='center'>
+<img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-terminal.png' align='center'>
 
 
 [![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
