@@ -19,6 +19,20 @@
         "maintenance",
         "code"
       ]
+    },
+    {
+      "login": "sumana2001",
+      "name": "Sumana Basu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63084088?v=4",
+      "profile": "https://sumana.live/",
+      "contributions": [
+        "infra",
+        "review",
+        "plugin",
+        "projectManagement",
+        "maintenance",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

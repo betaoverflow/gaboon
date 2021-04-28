@@ -1,6 +1,6 @@
 <p align='center'> <img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-logo.png' width='200'> </p>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h1 align='center'>Gaboon </h1>
@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://aniket.live"><img src="https://avatars.githubusercontent.com/u/67703407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="#infra-Aniket762" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Tests">⚠️</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Documentation">📖</a> <a href="#ideas-Aniket762" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Aniket762" title="Project Management">📆</a> <a href="#maintenance-Aniket762" title="Maintenance">🚧</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Code">💻</a></td>
+    <td align="center"><a href="https://sumana.live/"><img src="https://avatars.githubusercontent.com/u/63084088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumana Basu</b></sub></a><br /><a href="#infra-sumana2001" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/betaoverflow/gaboon/pulls?q=is%3Apr+reviewed-by%3Asumana2001" title="Reviewed Pull Requests">👀</a> <a href="#plugin-sumana2001" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-sumana2001" title="Project Management">📆</a> <a href="#maintenance-sumana2001" title="Maintenance">🚧</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=sumana2001" title="Code">💻</a></td>
   </tr>
 </table>
 
