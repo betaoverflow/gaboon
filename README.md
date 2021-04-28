@@ -1,4 +1,7 @@
 <p align='center'> <img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-logo.png' width='200'> </p>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h1 align='center'>Gaboon </h1>
 
@@ -30,3 +33,23 @@ Please refer to the project's style and contribution guidelines for submitting p
 
 ### Please abide by  [Contributing Guidelines](https://github.com/betaoverflow/gaboon/blob/main/CODE_OF_CONDUCT.md) and [Code of Conduct](https://github.com/betaoverflow/gaboon/blob/main/CONTRIBUTING.md) 🚀
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://aniket.live"><img src="https://avatars.githubusercontent.com/u/67703407?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="#infra-Aniket762" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Tests">⚠️</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Documentation">📖</a> <a href="#ideas-Aniket762" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Aniket762" title="Project Management">📆</a> <a href="#maintenance-Aniket762" title="Maintenance">🚧</a> <a href="https://github.com/betaoverflow/gaboon/commits?author=Aniket762" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

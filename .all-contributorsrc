@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Aniket762",
+      "name": "Aniket Pal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67703407?v=4",
+      "profile": "https://aniket.live",
+      "contributions": [
+        "infra",
+        "test",
+        "doc",
+        "ideas",
+        "projectManagement",
+        "maintenance",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "gaboon",
+  "projectOwner": "betaoverflow",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
