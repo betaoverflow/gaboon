@@ -1,0 +1,12 @@
+name: "Issue Greeter"
+on: [pull_request, fork ,issues]
+
+jobs:
+  issue-greeter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Greeter"
+        uses: anishanne/greeter@V1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }} 
+          message: "![](cdn.anishdoes.dev/githubdark.png)\nHey @{user}! Welcome to the **Gaboon** on **Github** we value your code. If you have any questions checkout the docs, create an issue and we will reply in thread. Looking forward to the changes that you make. We want coding more efficient and fun. The main moto of us keeping this opensource is to help beginners love opensource"
