@@ -26,14 +26,14 @@ Your appreciation makes us grow and glow up. ⭐
 
 Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
- 1. **Fork** the repo on GitHub
+ 1. **Fork** the repo on <a href="https://github.com/betaoverflow/gaboon">GitHub</a>
  2. **Clone** the project to your own machine
  3. **Commit** changes to your own branch
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
 
 ### Please abide by  [Contributing Guidelines](https://github.com/betaoverflow/gaboon/blob/main/CODE_OF_CONDUCT.md) and [Code of Conduct](https://github.com/betaoverflow/gaboon/blob/main/CONTRIBUTING.md) 🚀
-
+We would love to give credit to the logo designer. Please do claim it♥
 
 ## Contributors ✨
 
