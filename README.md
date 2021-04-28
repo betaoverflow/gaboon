@@ -2,8 +2,11 @@
 <img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-logo.png' width='200'>
 </p>
 <h1 align='center'>Gaboon </h1>
-
-<p align='center'>Code minimum and efficient using Gaboon's implementation of common algorithms!A handy tool for all programmers which makes algorithm implementation easier.We also aim to add documentation for every algorithm which we have in gaboon to make it more beginner friendly and ultimately making it a master tool for learning algos in python. For intermediate and professional developers it becomes boring to write basic algos in development so we also aim to reduce their effort with the help of gaboon. A PYPI package which will make development process more efficient and as the module is opensource developers can create a more personalized module. </p>
+<p align='center'>
+<img alt="GitHub" src="https://img.shields.io/github/license/betaoverflow/gaboon?olor=green&style=for-the-badge">&nbsp;<img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/betaoverflow/gaboon?color=green&label=contributors&style=for-the-badge">&nbsp;<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/betaoverflow/gaboon?color=green&style=for-the-badge"><br/>
+<img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;<img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
+</p>
+<p align='center'>Code minimum and efficient using Gaboon's implementation of common algorithms! A handy tool for all programmers to make your life easier. We also aim to add documentation for every algorithm to make it more beginner friendly and ultimately making it a master tool for learning algorithms in python. For intermediate and professional developers it becomes boring to write basic algos in development so we also aim to reduce their effort with the help of gaboon. A PYPI package which will make the development process more efficient. The module is opensource so developers can also create a more personalized module using gaboon. </p>
 
 <img src='https://github.com/betaoverflow/gaboon/blob/main/gaboon-terminal.png' align='center'>
 
